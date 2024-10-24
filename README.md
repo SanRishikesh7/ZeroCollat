@@ -1,11 +1,12 @@
-# ZeroCollat
+Here's a corrected and refined version of your README:
 
-Collateral less borrowing
+---
+
+# ZeroCollat
 
 ## Overview
 
-This project is a Next.js, TailwindCSS, TypeScript, Express, and Web3 application. It is designed to provide.
-
+ZeroCollat is a collateral-less borrowing application built with Next.js, TailwindCSS, TypeScript, Express, and Web3 technologies. It aims to provide a seamless borrowing experience without the need for traditional collateral.
 
 ## Table of Contents
 
@@ -27,34 +28,39 @@ This project is a Next.js, TailwindCSS, TypeScript, Express, and Web3 applicatio
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository:
    ```sh
    git clone https://github.com/[Your Github Username]/[Project Name].git
+   ```
 
-  ```
-   Install the dependencies using pnpm
-  ```
-pnpm install
-  ```
-Start the development server
+2. Navigate into the project directory:
+   ```sh
+   cd [Project Name]
+   ```
 
-  ```
-pnpm dev
-  ```
+3. Install the dependencies using pnpm:
+   ```sh
+   pnpm install
+   ```
+
+4. Start the development server:
+   ```sh
+   pnpm dev
+   ```
+
 ### Usage
-[Describe how to use the application here.]
+
+[Describe how to use the application here, including any necessary steps for users to get started.]
 
 ### Testing
-Run the tests using the following command:
 
-  ```
+Run the tests using the following command:
+```sh
 pnpm test
-  ```
+```
 
 ### Contribution
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-
-
-
+---
