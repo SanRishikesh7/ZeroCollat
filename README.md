@@ -1,2 +1,1 @@
-# ZeroCollat
-Collateral less borrowing
+# PeosFi - Empowering Uncollateralized Borrowing
